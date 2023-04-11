@@ -7,7 +7,7 @@ This repository is for use in the Cook Systems FastTrack program in conjunction 
 
 
 Each folder represents the corresponding unit within the React module on TalentLMS. Inside each folder are individual folders for each lesson.
-Within each lesson folder you will find the corresponding files for the lesson.
+Within the lesson folder you will find the corresponding files for the specified lesson.
 
 Either review the files here, or replace the files in your current project. 
 
